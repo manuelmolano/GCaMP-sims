@@ -2,7 +2,7 @@
 
 Code implementing the simulation of the fluorescence of a population of neurons expressing the GCaMP6 calcium indicator,
 
-![alt tag](figs/summary\ figure.png)
+![alt tag](figs/summary_figure.png)
 
 ### Prerequisites
 
