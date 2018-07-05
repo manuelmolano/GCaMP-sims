@@ -1,6 +1,6 @@
 # GCaMP6 artificial movies
 
-Code implementing the simulation of the fluorescence of a population of neurons expressing the GCaMP6 calcium indicator,
+Code implementing the simulation of the fluorescence of a population of neurons expressing the GCaMP6 calcium indicator and the sampling with Smart-line scan.
 
 ![alt tag](figs/summary_figure.png)
 
