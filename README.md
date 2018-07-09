@@ -25,6 +25,6 @@ Just download the repository to your computer and add the folder containing the 
 
 *This work has received funding from the European Union's Horizon 2020 research and innovation programme under the Marie Sklodowska-Curie grant agreement No 699829 (ETIC).*
 
-![ETIC project|10x10](figs/LOGO.png)
+![ETIC project|10x10,20%](figs/LOGO.png)
 
 
