@@ -2,7 +2,7 @@
 
 Code implementing the simulation of the fluorescence of a population of neurons expressing the GCaMP6 calcium indicator and the sampling with Smart-line scan.
 
-![alt "summary figure"](figs/summary_figure.png)
+![](figs/summary_figure.png)
 
 ### Prerequisites
 
