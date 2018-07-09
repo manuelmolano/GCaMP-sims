@@ -22,3 +22,7 @@ Just download the repository to your computer and add the folder containing the 
 ### Authors
 * [Manuel Molano](https://github.com/manuelmolano).
 
+
+*This work has received funding from the European Union's Horizon 2020 research and innovation programme under the Marie Sklodowska-Curie grant agreement No 699829 (ETIC).*
+![alt tag](figs/summary_figure.png)
+
